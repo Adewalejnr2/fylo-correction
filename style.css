@@ -126,6 +126,10 @@ article {
   padding: 15px;
 }
 
+#button2 {
+  width: 80%;
+  padding: 15px;
+}
 .get-started-ff {
   background-color: #2f65f9;
   margin-top: 5px;
@@ -295,5 +299,4 @@ li {
     margin-top: 2rem;
     margin-right: 14rem;
   }
-
 }
